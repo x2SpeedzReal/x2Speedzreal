@@ -1,6 +1,6 @@
 <h1 align="center">I'm Content Creator and Developer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x2swiftz&label=Profile%20views&color=0e75b6&style=flat" alt="x2swiftz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=x2speedz&label=Profile%20views&color=0e75b6&style=flat" alt="x2peedz" /> </p>
 
 - 📊 Language: NextJS, Go, Rust, Lua
 
